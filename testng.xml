@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/nehal/IdeaProjects/PDemo1">
+        <classes>
+            <class name="Demo1"></class>
+            <class name="DemoTricentis1"></class>
+            <class name="AddtoCartEditPageTest"></class>
+            <class name="CheckoutPage"></class>
+            <class name="HomePageTest"></class>
+            <class name="LandingpageTest"></class>
+            <class name="OrderCustomerInfo"></class>
+            <class name="RegisterProcess"></class>
+            <class name="ReorderTest"></class>
+            <class name="ShoppingCartPage"></class>
+
+        </classes>
+    </test>
+</suite>

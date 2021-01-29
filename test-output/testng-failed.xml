@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [All Test Suite]">
+  <test thread-count="5" name="C:/Users/nehal/IdeaProjects/PDemo1(failed)">
+    <classes>
+      <class name="CheckoutPage">
+        <methods>
+          <include name="tearDown"/>
+          <include name="chekoutPage"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- CheckoutPage -->
+      <class name="HomePageTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="hOmepageTitlevalidation"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- HomePageTest -->
+      <class name="AddtoCartEditPageTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="editCartDetail"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- AddtoCartEditPageTest -->
+      <class name="ReorderTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="reorderTest"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- ReorderTest -->
+      <class name="DemoTricentis1">
+        <methods>
+          <include name="tearDown"/>
+          <include name="test1"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- DemoTricentis1 -->
+    </classes>
+  </test> <!-- C:/Users/nehal/IdeaProjects/PDemo1(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->
