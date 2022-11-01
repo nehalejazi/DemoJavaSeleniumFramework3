@@ -3,41 +3,41 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [All Test Suite]">
   <test thread-count="5" name="C:/Users/nehal/IdeaProjects/PDemo1(failed)">
     <classes>
-      <class name="CheckoutPage">
+      <class name="com.nehal.tests.CheckoutPage">
         <methods>
           <include name="tearDown"/>
           <include name="chekoutPage"/>
           <include name="setup"/>
         </methods>
-      </class> <!-- CheckoutPage -->
-      <class name="HomePageTest">
+      </class> <!-- com.nehal.tests.CheckoutPage -->
+      <class name="com.nehal.tests.HomePageTest">
         <methods>
           <include name="tearDown"/>
           <include name="hOmepageTitlevalidation"/>
           <include name="setup"/>
         </methods>
-      </class> <!-- HomePageTest -->
-      <class name="AddtoCartEditPageTest">
+      </class> <!-- com.nehal.tests.HomePageTest -->
+      <class name="com.nehal.tests.AddtoCartEditPageTest">
         <methods>
           <include name="tearDown"/>
           <include name="editCartDetail"/>
           <include name="setup"/>
         </methods>
-      </class> <!-- AddtoCartEditPageTest -->
-      <class name="ReorderTest">
+      </class> <!-- com.nehal.tests.AddtoCartEditPageTest -->
+      <class name="com.nehal.tests.ReorderTest">
         <methods>
           <include name="tearDown"/>
           <include name="reorderTest"/>
           <include name="setup"/>
         </methods>
-      </class> <!-- ReorderTest -->
-      <class name="DemoTricentis1">
+      </class> <!-- com.nehal.tests.ReorderTest -->
+      <class name="com.nehal.tests.DemoTricentis1">
         <methods>
           <include name="tearDown"/>
           <include name="test1"/>
           <include name="setup"/>
         </methods>
-      </class> <!-- DemoTricentis1 -->
+      </class> <!-- com.nehal.tests.DemoTricentis1 -->
     </classes>
   </test> <!-- C:/Users/nehal/IdeaProjects/PDemo1(failed) -->
 </suite> <!-- Failed suite [All Test Suite] -->

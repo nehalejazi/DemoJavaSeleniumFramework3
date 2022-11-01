@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="All Test Suite">
-    <test verbose="2" preserve-order="true" name="C:/Users/nehal/IdeaProjects/PDemo1">
+    <test verbose="2" preserve-order="true" name="Building Framework">
         <classes>
             <class name="Demo1"></class>
-            <class name="DemoTricentis1"></class>
-            <class name="AddtoCartEditPageTest"></class>
-            <class name="CheckoutPage"></class>
-            <class name="HomePageTest"></class>
-            <class name="LandingpageTest"></class>
-            <class name="OrderCustomerInfo"></class>
-            <class name="RegisterProcess"></class>
-            <class name="ReorderTest"></class>
-            <class name="ShoppingCartPage"></class>
+            <class name="com.nehal.tests.DemoTricentis1"></class>
+            <class name="com.nehal.tests.AddtoCartEditPageTest"></class>
+            <class name="com.nehal.tests.CheckoutPage"></class>
+            <class name="com.nehal.tests.HomePageTest"></class>
+            <class name="com.nehal.tests.LandingpageTest"></class>
+            <class name="com.nehal.tests.OrderCustomerInfo"></class>
+            <class name="com.nehal.tests.RegisterProcess"></class>
+            <class name="com.nehal.tests.ReorderTest"></class>
+            <class name="com.nehal.tests.ShoppingCartPage"></class>
 
         </classes>
     </test>
